@@ -1,0 +1,17 @@
+   0 mkdir -p /home/user1/tast1/
+   1 cd
+   2 mkdir -p /home/user1/tast1/
+   3 touch /home/user1/tast1/file1.txt
+   4 ls /home
+   5 tree /home
+   6 ls /home/user1/tast1/
+   7 date
+   8 time
+   9 mkdir -p /home/user2/tast2/
+  10 touch /home/user2/tast2/file2.txt
+  11 ls /home/user2/tast2/
+  12 mkdir -p /home/user3/tast3/
+  13 touch /home/user3/tast3/file3.txt
+  14 ls /home/user3/tast3/
+  15 export_file /tmp/history.txt
+  16 history> /tmp/history.txt export_file /tmp/history.txt

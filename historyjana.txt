@@ -1,0 +1,107 @@
+   0 mkdir -p /home/user1/start
+   1 touch /home/user1/start/1.txt; touch /home/user1/start/start.txt
+   2 ls /home/
+   3 ls /home/z
+   4 ls /home/user1/
+   5 ls /home/user1/start/
+   6 cat /etc/group
+   7 cat /etc/group | wc
+   8 cat /etc/group | head -3
+   9 cat /etc/group | tail
+  10 cat /etc/group | tail -1
+  11 date > /home/user1/start/
+  12 date > /home/user1/start/1.txt 
+  13 cat /home/user1/start/1.txt 
+  14 echo "start" >> /home/user1/start/1.txt 
+  15 cat /home/user1/start/1.txt 
+  16 cd /home/user1/start/1.
+  17 tree
+  18 ls /home/user1/start/1.txt 
+  19 cd /
+  20 cat /home/user1/start/1.txt 
+  21 echo "start" >> /home/user1/start/1.txt
+  22 cat /home/user1/start/1.txt 
+  23 ls -a
+  24 cd /home/
+  25 ls -a
+  26 ls -a [path]
+  27 ls -al
+  28 ls - ld .?*
+  29 ls /home/
+  30 ls - ld .?*
+  31 ls - a /home/user1/
+  32 ls - a /home/user1/start
+  33 ls - a /home/user1/start.1txt
+  34 cd /
+  35 ls - a /home/user1/start.1txt
+  36 ls /etc/
+  37 ls /home/
+  38 ls /root
+  39 ls -l /etc/hots
+  40 ls -l /etc/
+  41 cat /home/
+  42 cat /home/user1/start/
+  43 cat /home/user1/start/1.txt
+  44 ls -a
+  45 ls -al /etc/
+  46 cp /home/user1/start/1.txt /opt/task/start.txt
+  47 mv  /home/1.txt /opt/task/start.txt
+  48 cp /home/user1/start/1.txt /opt/
+  49 cp /home/user1/start/1.txt /opt/start
+  50 cat /home
+  51 cat /home/user1/start/1.txt 
+  52 cat /opt/start
+  53 cp /home/user1/start/1.txt /opt/start.txt
+  54 cat /opt/start
+  55 cat /opt/start.txt
+  56 cat /opt/task/start.txt
+  57 touch /opt/task/start.txt
+  58 mkdir -p /opt/task/start.txt
+  59 touch /opt/task/start.txt
+  60 ls /opt
+  61 cat /opt/task/
+  62 cat /opt/
+  63 cat /opt/task/start.txt
+  64 cat /opt
+  65 ls /opt
+  66 df -h | grep /
+  67 df -h | grep -w /
+  68 echo / >> /opt/task/start.txt
+  69 echo / >> /opt/task/
+  70 echo / >> /opt/start.txt/
+  71 mkdir -p /opt/task/start.txt
+  72 ls /opt/
+  73 echo / >> /opt/task/start.txt
+  74 echo / >> /opt/file
+  75 cat /opt/file
+  76 cat /etc/group
+  77 cat /home/
+  78 cat /home/file
+  79 cat /home/user1/start/
+  80 cat /home/user1/start/1.txt 
+  81 cat /opt/
+  82 cat /opt/file
+  83 echo -w | +4 >> /opt/file
+  84 echo wc / >> /opt/file
+  85 cat /opt/file
+  86 echo grep / >> /opt/file
+  87 cat /opt/file
+  88 cat/etc/group | grep -w / >> /opt/file
+  89 df -h | grep /
+  90 cat/etc/group | grep / >> /opt/file
+  91 df -h | grep / >> /opt/file
+  92 cat /opt/file
+  93 cat /opt/
+  94 cat /opt
+  95 cat /opt/tast/start.txt
+  96 cat /opt/tast/
+  97 cat /opt/start/
+  98 ls /home/
+  99 cat /home/
+ 100 cat /home/user1/start/
+ 101 cat /home/user1/start/1.txt 
+ 102 mkdir -p /opt/task/start.txt
+ 103 touch /home/task/start.txt
+ 104 touch /opt/task/start.txt
+ 105 ls /opt
+ 106 history > /tmp/historyjana.txt

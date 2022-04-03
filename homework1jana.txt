@@ -1,0 +1,7 @@
+   0 mkdir -p /home/user/start/; mkdir -p /opt/task
+   1 touch /home/user/start/1.txt/; touch /opt/task/start.txt
+   2 echo "start" > /home/user/start/1.txt
+   3 date >> /home/user/start/1.txt  
+   4 cp /home/user/start/1.txt /opt/task/start.txt
+   5 df -h | grep / >> /opt/task/start.txt 
+   6 history > /tmp/homework1jana.txt

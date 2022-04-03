@@ -1,0 +1,47 @@
+   0 cd /tmp/
+   1 nano scriptjana.sh
+   2 ./scriptjana.sh 
+   3 chmod +x scriptjana.sh 
+   4 ./scriptjana.sh 
+   5 nano scriptjana.sh 
+   6 ./scriptjana.sh 
+   7 nano scriptjana.sh 
+   8 ./scriptjana.sh 
+   9 mkdir -p /tmp/test/
+  10 touch /tmp/test/mydate.txt
+  11 chmod +x scriptjana.sh 
+  12 ./scriptjana.sh 
+  13 nano scriptjana.sh 
+  14 ./scriptjana.sh 
+  15 mkdir -p /opt/mydate/
+  16 cp /tmp/test/mydate.txt /opt/mydate/newmydate.txt 
+  17 cp /tmp/scriptjana.sh  /bin/
+  18 chmod +x /bin/scriptjana.sh 
+  19 ./scriptjana.sh 
+  20 nano scriptjana.sh 
+  21 ./scriptjana.sh 
+  22 nano scriptjana.sh 
+  23 ./scriptjana.sh 
+  24 cd
+  25 cd /bin/
+  26 ls -la
+  27 ./scriptjana.sh 
+  28 chmod +x scriptjana.sh 
+  29 ./scriptjana.sh 
+  30 nano scriptjana.sh 
+  31 ./scriptjana.sh 
+  32 nano scriptjana.sh 
+  33 ./scriptjana.sh 
+  34 nano scriptjana.sh 
+  35 ./scriptjana.sh 
+  36 cd 
+  37 cd /tmp/
+  38 nano scriptjana.sh 
+  39 cd
+  40 cd /bin/
+  41 nano scriptjana.sh 
+  42 ./scriptjana.sh 
+  43 chmod +x scriptjana.sh 
+  44 ./scriptjana.sh 
+  45 nano scriptjana.sh 
+  46 history > /tmp/history7homework.txt

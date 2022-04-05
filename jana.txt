@@ -1,0 +1,6 @@
+   0 cd /tmp/
+   1 ls
+   2 nano jana.sh
+   3 chmod +x /tmp/jana.sh 
+   4 ./jana.sh 
+   5 history > /tmp/jana.txt
